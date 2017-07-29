@@ -18,11 +18,10 @@ AR++ is a collection of interaction components to be used with Apple's ARKit. Th
 - Ruler
 
 ## TODO
-- Add more components:
--- 3D Painting system
--- More Measurement Components: Multipoint Lines, Curves, Cirumference, Surface Area of Polygon, Volume of a given set of vertices
--- Portals
--- AR Selfies
+- 3D Painting system
+- More Measurement Components: Multipoint Lines, Curves, Cirumference, Surface Area of Polygon, Volume of a given set of vertices
+- Portals
+- AR Selfies
 - Create example applications
 - Write basic documentation
 - Throw some screenshots in here
